@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hey there! I'm Azlaan Irshad 👋
 
-<!--
-**AzlaanIrshad/AzlaanIrshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/azlaan-irshad//">
+  <img align="left" alt="Azlaan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AzlaanIrshad">
+  <img align="left" alt="Azlaan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on [School](https://www.bit-academy.nl).
+- 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/).
+- 💬 Ask me about Front-End or any web development-related stuff.
+- 📫 How to reach me: [Linkedin - Azlaan Irshad](https://www.linkedin.com/in/azlaan-irshad/)
+- 😄 Pronounce: He/Him
+- ⚡ Fun fact: 
+
+[![Linkedin: Azlaan Irshad](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azlaan-irshad/)](https://www.linkedin.com/in/azlaan-irshad/)
+[![GitHub Azlaan Irshad](https://img.shields.io/github/followers/azlaanirshad?label=follow&style=social)](https://github.com/AzlaanIrshad)
+
+<div align="center">
+
+## Take a quick look at my repositories ❤️!
+[!Azlaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlaanirshad&theme=tokyonight)](https://github.com/AzlaanIrshad)
+
+ <img src="https://komarev.com/ghpvc/?username=azlaanirshad&label=Views&color=brightgreen&style=flat" alt="azlaanirshad" />
+</div>
