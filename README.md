@@ -16,7 +16,8 @@
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Azlaan Irshad](https://www.linkedin.com/in/azlaan-irshad/)
 - 😄 Pronounce: He/Him
-- ⚡ Fun fact: 
+
+
 
 [![Linkedin: Azlaan Irshad](https://img.shields.io/badge/-Azlaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azlaan-irshad/)](https://www.linkedin.com/in/azlaan-irshad/)
 [![GitHub Azlaan Irshad](https://img.shields.io/github/followers/azlaanirshad?label=follow&style=social)](https://github.com/AzlaanIrshad)
