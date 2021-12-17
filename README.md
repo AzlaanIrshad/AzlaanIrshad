@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/).
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Azlaan Irshad](https://www.linkedin.com/in/azlaan-irshad/)
-- 😄 Pronounce: He/Him
 
 
 
@@ -24,7 +23,7 @@
 
 <div align="center">
 
-## Take a quick look at my repositories ❤️!
+## Take a quick look at my repositories !
 [![Azlaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlaanirshad&theme=tokyonight)](https://github.com/AzlaanIrshad)
 
  <img src="https://komarev.com/ghpvc/?username=azlaanirshad&label=Views&color=brightgreen&style=flat" alt="azlaanirshad" />
