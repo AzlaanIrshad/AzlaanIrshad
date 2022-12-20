@@ -11,9 +11,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [School](https://www.bit-academy.nl).
 - 🌱 I’m currently learning more about [Laravel](https://laravel.com/).
-- 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Azlaan Irshad](https://www.linkedin.com/in/azlaan-irshad/)
 
 
