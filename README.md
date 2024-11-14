@@ -5,7 +5,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning more about [Laravel](https://laravel.com/).
+- 🌱 I’m currently learning more about Java.
 - 📫 How to reach me: [Linkedin - Azlaan Irshad](https://www.linkedin.com/in/azlaan-irshad/)
 
 
